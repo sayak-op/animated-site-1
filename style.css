@@ -203,14 +203,14 @@ video{
     transition: all ease 0.6s;
 }
 #card1{
-    background-image: url(/image/img1.jpg);
+    background-image: url(./image/img1.jpg);
 
 }
 #card2{
-    background-image: url(/image/img2.jpg);
+    background-image: url(./image/img2.jpg);
 }
 #card3{
-    background-image: url(/image/img3.jpg);
+    background-image: url(./image/img3.jpg);
 }
 
 .overlay{
